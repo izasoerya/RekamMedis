@@ -1,8 +1,5 @@
 # RekamMedis
 
-Native Website with PHP, JS, Bootstrap....
-Sistem rekam medis untuk rumah sakit dsb.
-
 Tutorial pake
 -
 
