@@ -5,7 +5,7 @@
 Nama Anggota: 
 - Arka Lilang Wiratma (21/477428/PA/20661)
 - Ihza Surya Pratama (21/480981/PA/20923)
-- Muhammad Nafis Aisy Zhorofun ()
+- Muhammad Nafis Aisy Zhofron (21/477890/PA/20715)
 - Septyan Jaya Saputra (21/474285/PA/20479)
 
 Repository ini berisi program dan installer untuk menjalankannya (one click installer).
