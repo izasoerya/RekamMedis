@@ -9,13 +9,13 @@ Nama Anggota:
 - Septyan Jaya Saputra (21/474285/PA/20479)
 
 
-- Buat db bernama <code>rekam_medis</code>
-- Import db <code>rekam_medis.sql</code>
-- Edit file <code>auth/connect.php</code> sesuaikan username dan password dengan servermu
-- Enjoy
 
-Daripada download berulang - ulang
+How to use (Linux)
 -
+1. Buka terminal (ctrl + alt + t)
+2. Ketik <code>git clone https://github.com/izasoerya/RekamMedis</code>
+3. Ketik <code>cd RekamMedis</code>
+4. Ketik <code>./gunting</code>
 
 Ya sorry, bisanya update kecil-kecilan doang... Biar enak pake <a href="https://github.com/git-for-windows/git/releases/download/v2.26.1.windows.1/Git-2.26.1-64-bit.exe">GitBash For Windows</a> atau kalau di Linux ya langsung aja pake <code>git</code> aja.
 
