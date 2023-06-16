@@ -1,4 +1,4 @@
-# Kelompoknya OrangePI sudo rm -r -f /var/
+# Kelompoknya OrangePi sudo rm -r -f /var/
 
 
 
@@ -26,6 +26,9 @@ How to use (Linux)
    
     Ketik <code>./guntingtheomnipotenttoolyagasihinibenerarndehyamaaptypo</code>
 
+
+
+Buat nyegerin mata : 
 ![Picture](https://editors.dexerto.com/wp-content/uploads/2022/07/18/mumei-hololive-consumed-life.jpg)
 <!---
 Ya sorry, bisanya update kecil-kecilan doang... Biar enak pake <a href="https://github.com/git-for-windows/git/releases/download/v2.26.1.windows.1/Git-2.26.1-64-bit.exe">GitBash For Windows</a> atau kalau di Linux ya langsung aja pake <code>git</code> aja.
