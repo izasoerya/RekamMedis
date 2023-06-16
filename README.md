@@ -1,7 +1,13 @@
-# RekamMedis
+# Kelompoknya OrangePI sudo rm -r -f /var/
 
-Tutorial pake
--
+
+
+Nama Anggota: 
+- Arka Lilang Wiratma (21/477428/PA/20661)
+- Ihza Surya Pratama (21/480981/PA/20923)
+- Muhammad Nafis Aisy Zhorofun ()
+- Septyan Jaya Saputra (21/474285/PA/20479)
+
 
 - Buat db bernama <code>rekam_medis</code>
 - Import db <code>rekam_medis.sql</code>
