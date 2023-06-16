@@ -12,11 +12,16 @@ Nama Anggota:
 
 How to use (Linux)
 -
-1. Buka terminal (ctrl + alt + t)
-2. Ketik <code>git clone https://github.com/izasoerya/RekamMedis</code>
-3. Ketik <code>cd RekamMedis</code>
-4. Ketik <code>./gunting</code>
+1.  Buka terminal (ctrl + alt + t)
+2.  Pertama-tama, clone repository dari github 
+    Ketik <code>git clone https://github.com/izasoerya/RekamMedis</code>
+3.  Setelah clone, masuk ke directory tempat clone tadi
+    Ketik <code>cd RekamMedis</code>
+4.  Jalankan codenya 
+    Ketik <code>./gunting</code>
 
+
+<!---
 Ya sorry, bisanya update kecil-kecilan doang... Biar enak pake <a href="https://github.com/git-for-windows/git/releases/download/v2.26.1.windows.1/Git-2.26.1-64-bit.exe">GitBash For Windows</a> atau kalau di Linux ya langsung aja pake <code>git</code> aja.
 
 
@@ -33,3 +38,5 @@ Rancangan Sistem
 ![rancangansistem](https://raw.githubusercontent.com/ledleledle/RekamMedis/master/blueprint/rancangan.png)
 
 For now its done :)
+
+-->
