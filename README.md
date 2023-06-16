@@ -22,7 +22,7 @@ How to use (Linux)
 4.  Jalankan codenya 
     Ketik <code>./gunting</code>
 
-![rancangansistem](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dexerto.com%2Fentertainment%2Fhololive-star-nanashi-mumei-claims-vtubing-has-consumed-all-of-my-thoughts-1874528%2F&psig=AOvVaw27a1aHmTQecw59wcZdUdp5&ust=1687006509043000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiV1I_rx_8CFQAAAAAdAAAAABAE)
+![rancangansistem](image.png)
 <!---
 Ya sorry, bisanya update kecil-kecilan doang... Biar enak pake <a href="https://github.com/git-for-windows/git/releases/download/v2.26.1.windows.1/Git-2.26.1-64-bit.exe">GitBash For Windows</a> atau kalau di Linux ya langsung aja pake <code>git</code> aja.
 
