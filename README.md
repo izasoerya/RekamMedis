@@ -15,16 +15,16 @@ Selamat mencoba!
 
 How to use (Linux)
 -
-1.  Buka terminal (ctrl + alt + t)
+1.  Buka terminal <code>ctrl + alt + t</code>
 2.  Pertama-tama, clone repository dari github 
    
-    Ketik <code>git clone https://github.com/izasoerya/RekamMedis</code>
+    <code>git clone https://github.com/izasoerya/RekamMedis</code>
 3.  Setelah clone, masuk ke directory tempat clone tadi
     
-    Ketik <code>cd RekamMedis</code>
+    <code>cd RekamMedis</code>
 4.  Jalankan codenya 
    
-    Ketik <code>./guntingtheomnipotenttoolyagasihinibenerarndehyamaaptypo</code>
+    <code>./guntingtheomnipotenttoolyagasihinibenerarndehyamaaptypo</code>
 
 
 
