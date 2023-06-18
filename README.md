@@ -17,6 +17,9 @@ belajar maupun referensi dalam membuat aplikasi web yang pantas. Selain itu, apl
 web ini juga menjadi tugas proyek kami untuk mata kuliah Cloud Computing.
 
 
+Tampilan login page : 
+-
+
 ![image](https://drive.google.com/uc?export=view&id=1ThK4jlW8xgPq4xtttOLuR1XEFznScPoJ)
 
 
@@ -37,7 +40,7 @@ How to use (Linux)
 4.  Jalankan codenya 
    
     <code>./Installer-bashScript.sh</code>
-5.  Apabila muncul prompt ketik Y lalu enter (Perhatian: ini akan menghapus file! Apabila ada file penting di <code>/var/www/html</code> pindahkan terlebih dahulu)
+5.  Apabila muncul prompt ketik Y lalu enter (__Perhatian: ini akan menghapus file!__ Apabila ada file penting di <code>/var/www/html</code> pindahkan terlebih dahulu)
 
 
 
@@ -49,6 +52,11 @@ Beberapa dokumentasi website :
 ![image](https://drive.google.com/uc?export=view&id=1-TBiTAlZi2e7SwSfEuMpivvTMpG2bUgA)
 
 ![image](https://drive.google.com/uc?export=view&id=11eu_tLkNPXyhsGqYPg22JGFGxvAP-Wk7)
+
+Terimakasih
+-
+Terimakasih atas perhatiannya, semoga hasil kerja kami dapat membantu dalam bentuk apapun.
+
 <!---
 Ya sorry, bisanya update kecil-kecilan doang... Biar enak pake <a href="https://github.com/git-for-windows/git/releases/download/v2.26.1.windows.1/Git-2.26.1-64-bit.exe">GitBash For Windows</a> atau kalau di Linux ya langsung aja pake <code>git</code> aja.
 
