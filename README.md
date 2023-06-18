@@ -17,7 +17,7 @@ belajar maupun referensi dalam membuat aplikasi web yang pantas. Selain itu, apl
 web ini juga menjadi tugas proyek kami untuk mata kuliah Cloud Computing.
 
 
-![Picture](https://ugm365-my.sharepoint.com/:i:/r/personal/ihza_surya0302_365_ugm_ac_id/Documents/Cloud%20Computing%20TA/Screenshot%20from%202023-06-18%2017-38-40.png?csf=1&web=1&e=cALjgx)
+![Picture](https://drive.google.com/file/d/1ThK4jlW8xgPq4xtttOLuR1XEFznScPoJ/)
 
 
 Repository ini berisi program dan installer untuk menjalankannya (one click installer).
