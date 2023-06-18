@@ -8,6 +8,18 @@ Nama Anggota:
 - Muhammad Nafis Aisy Zhofron (21/477890/PA/20715)
 - Septyan Jaya Saputra (21/474285/PA/20479)
 
+Selamat datang di repository Rekam Medis!
+-
+Repository ini merupakan hasil kerja kelompok dari kami dengan menciptakan sebuah
+apliaksi web yang berguna untuk memantau kondisi rumah sakit, pasien, dokter, ruangan
+dan lain-lain. Harapannya aplikasi ini dapat berguna untuk teman-teman sebagai bahan 
+belajar maupun referensi dalam membuat aplikasi web yang pantas. Selain itu, apliaksi
+web ini juga menjadi tugas proyek kami untuk mata kuliah Cloud Computing.
+
+
+![Picture](https://ugm365-my.sharepoint.com/:i:/r/personal/ihza_surya0302_365_ugm_ac_id/Documents/Cloud%20Computing%20TA/Screenshot%20from%202023-06-18%2017-38-40.png?csf=1&web=1&e=cALjgx)
+
+
 Repository ini berisi program dan installer untuk menjalankannya (one click installer).
 Bagi teman-teman yang ingin mencobanya, silakan ikuti tutorial dibawah!
 
