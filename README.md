@@ -36,7 +36,8 @@ How to use (Linux)
     <code>cd RekamMedis</code>
 4.  Jalankan codenya 
    
-    <code>./guntingtheomnipotenttoolyagasihinibenerarndehyamaaptypo</code>
+    <code>./Installer-bashScript.sh</code>
+5.  Apabila muncul prompt ketik Y lalu enter (Perhatian: ini akan menghapus file! Apabila ada file penting di <code>/var/www/html</code> pindahkan terlebih dahulu)
 
 
 
