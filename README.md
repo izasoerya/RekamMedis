@@ -40,9 +40,14 @@ How to use (Linux)
 
 
 
-Buat nyegerin mata : 
+Beberapa dokumentasi website : 
 -
-![Picture](https://editors.dexerto.com/wp-content/uploads/2022/07/18/mumei-hololive-consumed-life.jpg)
+
+![image](https://drive.google.com/uc?export=view&id=1WM255B_PYl5CLM62j5TNqz-fawlhShCc)
+
+![image](https://drive.google.com/uc?export=view&id=1-TBiTAlZi2e7SwSfEuMpivvTMpG2bUgA)
+
+![image](https://drive.google.com/uc?export=view&id=11eu_tLkNPXyhsGqYPg22JGFGxvAP-Wk7)
 <!---
 Ya sorry, bisanya update kecil-kecilan doang... Biar enak pake <a href="https://github.com/git-for-windows/git/releases/download/v2.26.1.windows.1/Git-2.26.1-64-bit.exe">GitBash For Windows</a> atau kalau di Linux ya langsung aja pake <code>git</code> aja.
 
