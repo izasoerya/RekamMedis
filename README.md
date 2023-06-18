@@ -17,7 +17,7 @@ belajar maupun referensi dalam membuat aplikasi web yang pantas. Selain itu, apl
 web ini juga menjadi tugas proyek kami untuk mata kuliah Cloud Computing.
 
 
-![Picture](https://drive.google.com/file/d/1ThK4jlW8xgPq4xtttOLuR1XEFznScPoJ/)
+![image](https://drive.google.com/uc?export=view&id=1ThK4jlW8xgPq4xtttOLuR1XEFznScPoJ)
 
 
 Repository ini berisi program dan installer untuk menjalankannya (one click installer).
